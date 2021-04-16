@@ -36,5 +36,4 @@ print('\n')
 print('Alfabeto de m = '+str(m)+' dígitos.')
 print('Palavras com n = '+str(n)+' dígitos.')
 print('Analítico: m^n = ', m**n)
-      
 print('Computacional:', np.size(all_sequences, axis=0))

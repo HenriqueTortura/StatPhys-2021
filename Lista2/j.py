@@ -34,5 +34,4 @@ print('\n')
 print('Alfabeto de binário.')
 print('Palavras com n = '+str(n)+' dígitos.')
 print('Analítico: 2^n = ', 2**n)
-      
 print('Computacional:', np.size(all_sequences, axis=0))

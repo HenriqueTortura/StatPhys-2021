@@ -43,5 +43,4 @@ print('\n')
 print('Alfabeto de binário.')
 print('Palavras com n = '+str(n)+' dígitos sem 1\'s consecutivos.')
 print('Analítico:', Analitical)
-      
 print('Computacional:', np.size(all_sequences, axis=0))
