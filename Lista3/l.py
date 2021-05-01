@@ -74,7 +74,7 @@ plt.ylabel(r'$\rho_I(i)$', fontsize=18)
 plt.grid()
 
 # plt.show()
-plt.savefig('Densidade_I0cte.png', dpi=200, bbox_inches='tight')
+plt.savefig('img/Densidade_I0cte.png', dpi=200, bbox_inches='tight')
 
 #%% Plotting2
 plt.figure(figsize=(16,9))
@@ -105,4 +105,4 @@ plt.ylabel(r'$\rho_I(i)$', fontsize=18)
 plt.grid()
 
 # plt.show()
-plt.savefig('Densidade_alphacte.png', dpi=200, bbox_inches='tight')
+plt.savefig('img/Densidade_alphacte.png', dpi=200, bbox_inches='tight')
